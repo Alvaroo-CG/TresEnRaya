@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\TresEnRaya\TresEnRaya\bin\Debug\TresEnRaya.exe.config
+C:\Users\Usuario\source\repos\TresEnRaya\TresEnRaya\bin\Debug\TresEnRaya.exe
+C:\Users\Usuario\source\repos\TresEnRaya\TresEnRaya\bin\Debug\TresEnRaya.pdb
+C:\Users\Usuario\source\repos\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.exe
+C:\Users\Usuario\source\repos\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.pdb
